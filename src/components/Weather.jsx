@@ -117,7 +117,7 @@ const Weather = () => {
         ) : (
           !errorMessage && (
             <p className="text-center text-gray-500">
-              Enter a city name to get weather information.
+              get weather 
             </p>
           )
         )}
